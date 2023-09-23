@@ -5,6 +5,6 @@ const server = Bun.serve({
   },
 });
 console.log("what the weeee");
-console.log("new lets make it new two");
+console.log("new lets make it new three");
 
 console.log(`Listening on http://localhost:${server.port} ...`);
