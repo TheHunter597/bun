@@ -4,7 +4,7 @@ const server = Bun.serve({
     return new Response("Bun is here boyyyes!");
   },
 });
-console.log("what the tango");
+console.log("what the weeee");
 console.log("new lets make it new two");
 
 console.log(`Listening on http://localhost:${server.port} ...`);
