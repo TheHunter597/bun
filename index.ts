@@ -5,5 +5,6 @@ const server = Bun.serve({
   },
 });
 console.log("what the tango");
+console.log("new one");
 
 console.log(`Listening on http://localhost:${server.port} ...`);
